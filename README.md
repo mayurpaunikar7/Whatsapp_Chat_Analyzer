@@ -68,25 +68,24 @@ It includes data cleaning, analysis, and visualization to extract valuable insig
 
 1. Open WhatsApp.
 
-<p align="center"><img src="https://github.com/mayurpaunikar7/Whatsapp_Chat_Analyzer/blob/main/Images/Whatsapp%20home%20page.png" width="25" height="50"></p>
+<p align="left"><img src="https://github.com/mayurpaunikar7/Whatsapp_Chat_Analyzer/blob/main/Images/Whatsapp%20home%20page.png" width="250" height="400"></p>
 <br>
-![alt text](https://github.com/mayurpaunikar7/Whatsapp_Chat_Analyzer/blob/main/Images/Whatsapp%20home%20page.png)
-
 
 2. In the upper-right corner, click on the three dots.
 
-![alt text](https://github.com/mayurpaunikar7/Whatsapp_Chat_Analyzer/blob/main/Images/three%20dots.jpg)
-
+<p align="left"><img src="https://github.com/mayurpaunikar7/Whatsapp_Chat_Analyzer/blob/main/Images/three%20dots.jpg" width="230" height="250"></p>
+<br>
 
 3. Scroll down and find the "More" option, then click on it.
 
-![alt text](https://github.com/mayurpaunikar7/Whatsapp_Chat_Analyzer/blob/main/Images/more-tab-whatsapp.png)
-
+<p align="left"><img src="https://github.com/mayurpaunikar7/Whatsapp_Chat_Analyzer/blob/main/Images/more-tab-whatsapp.png" width="230" height="250"></p>
+<br>
 
 4. In the "More" menu, you will find the "Export chats" option.
 Choose a chat to export, and save the chat data to a text file on your device.
 
-![alt text](https://github.com/mayurpaunikar7/Whatsapp_Chat_Analyzer/blob/main/Images/export-whatsapp.jpg)
+<p align="left"><img src="https://github.com/mayurpaunikar7/Whatsapp_Chat_Analyzer/blob/main/Images/export-whatsapp.jpg" width="250" height="400"></p>
+<br>
 
 
 ## Contributing
