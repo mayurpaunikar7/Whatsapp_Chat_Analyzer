@@ -5,8 +5,8 @@
 WhatsApp Chat Analyzer is a Python-based project that allows you to analyze your WhatsApp chat data. 
 It provides insights into user conversations and behavior, and it's accessible through a user-friendly web interface created with Streamlit.
 
-- **Data Source**: WhatsApp chat data exported from WhatsApp.
-- **Website Hosting**: The project's website is hosted on [share.streamlit.io](https://share.streamlit.io).
+![alt text](https://github.com/mayurpaunikar7/Whatsapp_Chat_Analyzer/blob/main/Images/whatsapp-logo.jpg)
+
 
 ## Table of Contents
 
@@ -67,14 +67,26 @@ It includes data cleaning, analysis, and visualization to extract valuable insig
 ## WhatsApp Chat Export Tutorial
 
 1. Open WhatsApp.
-![alt text]()
+
+<p align="center"><img src="https://github.com/mayurpaunikar7/Whatsapp_Chat_Analyzer/blob/main/Images/Whatsapp%20home%20page.png" width="25" height="50"></p>
+<br>
+![alt text](https://github.com/mayurpaunikar7/Whatsapp_Chat_Analyzer/blob/main/Images/Whatsapp%20home%20page.png)
+
+
 2. In the upper-right corner, click on the three dots.
-![alt text]()
-4. Scroll down and find the "More" option, then click on it.
-![alt text]()
-5. In the "More" menu, you will find the "Export chats" option.
-![alt text]()
-6. Choose a chat to export, and save the chat data to a text file on your device.
+
+![alt text](https://github.com/mayurpaunikar7/Whatsapp_Chat_Analyzer/blob/main/Images/three%20dots.jpg)
+
+
+3. Scroll down and find the "More" option, then click on it.
+
+![alt text](https://github.com/mayurpaunikar7/Whatsapp_Chat_Analyzer/blob/main/Images/more-tab-whatsapp.png)
+
+
+4. In the "More" menu, you will find the "Export chats" option.
+Choose a chat to export, and save the chat data to a text file on your device.
+
+![alt text](https://github.com/mayurpaunikar7/Whatsapp_Chat_Analyzer/blob/main/Images/export-whatsapp.jpg)
 
 
 ## Contributing
@@ -89,4 +101,3 @@ You can access the WhatsApp Chat Analyzer through the following link:
 [WhatsApp Chat Analyzer](https://mayurpaunikar7-whatsapp-chat-analyzer-app-emk3om.streamlit.app)
 
 Simply click on the link to visit the website and start analyzing your WhatsApp chat data.
-
