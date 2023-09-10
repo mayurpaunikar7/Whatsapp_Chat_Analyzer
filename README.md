@@ -67,7 +67,7 @@ It includes data cleaning, analysis, and visualization to extract valuable insig
 
 
 * <h3>Most Frequently Used Words</h3>
-![Home page / search bar](https://github.com/mayurpaunikar7/Whatsapp_Chat_Analyzer/blob/main/Images/WhatsApp%20Image%202023-09-10%20at%202.43.15%20PM.jpeg)
+![Home page / search bar](https://github.com/mayurpaunikar7/Whatsapp_Chat_Analyzer/blob/main/Images/WhatsApp%20Image%202023-09-10%20at%202.42.47%20PM.jpeg)
 
 * <h3>Emoji Analysis</h3>
 ![Home page / search bar](https://github.com/mayurpaunikar7/Whatsapp_Chat_Analyzer/blob/main/Images/WhatsApp%20Image%202023-09-10%20at%202.41.41%20PM.jpeg)
