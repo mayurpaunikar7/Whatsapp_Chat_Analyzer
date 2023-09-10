@@ -47,6 +47,29 @@ It includes data cleaning, analysis, and visualization to extract valuable insig
   - Media (images, videos) distribution.
   - Emojis usage analysis.
 
+## Screenshots
+
+* <h3>Home Page</h3>
+![Home page / search bar](https://github.com/mayurpaunikar7/Whatsapp_Chat_Analyzer/blob/main/Images/WhatsApp%20Image%202023-09-10%20at%202.37.07%20PM.jpeg)
+
+* <h3>Top Statistics</h3>
+![Home page / search bar](https://github.com/mayurpaunikar7/Whatsapp_Chat_Analyzer/blob/main/Images/WhatsApp%20Image%202023-09-10%20at%202.38.14%20PM.jpeg)
+
+* <h3>Message distribution over time</h3>
+![Home page / search bar](https://github.com/mayurpaunikar7/Whatsapp_Chat_Analyzer/blob/main/Images/WhatsApp%20Image%202023-09-10%20at%202.59.49%20PM.jpeg)
+
+* <h3>Activity Map</h3>
+![Home page / search bar](https://github.com/mayurpaunikar7/Whatsapp_Chat_Analyzer/blob/main/Images/WhatsApp%20Image%202023-09-10%20at%202.39.02%20PM.jpeg)
+![Home page / search bar](https://github.com/mayurpaunikar7/Whatsapp_Chat_Analyzer/blob/main/Images/WhatsApp%20Image%202023-09-10%20at%202.39.32%20PM.jpeg)
+ 
+* <h3>Top message senders</h3>
+![Home page / search bar](https://github.com/mayurpaunikar7/Whatsapp_Chat_Analyzer/blob/main/Images/WhatsApp%20Image%202023-09-10%20at%202.40.11%20PM.jpeg)
+
+* <h3>Emoji Analysis</h3>
+![Home page / search bar](https://github.com/mayurpaunikar7/Whatsapp_Chat_Analyzer/blob/main/Images/WhatsApp%20Image%202023-09-10%20at%202.41.41%20PM.jpeg)
+
+
+
 ## Usage
 
 1. **Export WhatsApp Chat**:
