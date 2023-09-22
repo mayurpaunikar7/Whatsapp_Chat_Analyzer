@@ -9,7 +9,9 @@ It provides insights into user conversations and behavior, and it's accessible t
 
 ## 🎯 Problem Statement
 
-The objective of this project is to develop a WhatsApp chat analysis tool that allows users to gain insights from their chat data. The challenge is to create a user-friendly web interface using Streamlit for chat data analysis, data cleansing, and visualization. This tool aims to provide meaningful insights into message frequency, user interactions, and chat patterns, simplifying the understanding of WhatsApp chat data.
+- The objective of this project is to develop a WhatsApp chat analysis tool that allows users to gain insights from their chat data.
+- The challenge is to create a user-friendly web interface using Streamlit for chat data analysis, data cleansing, and visualization.
+- This tool aims to provide meaningful insights into message frequency, user interactions, and chat patterns, simplifying the understanding of WhatsApp chat data.
 
 ## 📋 Table of Contents
 
