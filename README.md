@@ -159,6 +159,6 @@ Choose a chat to export, and save the chat data to a text file on your device.
 
 You can access the WhatsApp Chat Analyzer through the following link:
 
-- [WhatsApp Chat Analyzer Website](https://mayurpaunikar7-whatsapp-chat-analyzer-app-emk3om.streamlit.app/)
+- [WhatsApp Chat Analyzer Website](https://whatsappchatanalyzer-8vvmzjwrkqfn7rqszaxfou.streamlit.app/)
 
 Simply click on the link to visit the website and start analyzing your WhatsApp chat data.
